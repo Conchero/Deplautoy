@@ -2,9 +2,9 @@
 
 ### Presentation
 
-Hello, thanks for the interest given to this project, A Platform to automatically deploy microservices application
+Hello, thanks for the interest given to this project. A Platform to automatically deploy microservices application.
 
-This is the very begining of production but here's what's intended for this project 
+This is the very begining of production but here's what's intended for this project.
 
 |   Domain    |   Stack    |
 |---    |:-:    |
