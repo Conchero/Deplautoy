@@ -44,5 +44,5 @@ Structuration of the repository to make easier the incoming application implemen
 
 ---
 
-Come back soon to get updated !
+Come back soon for more update !
 
