@@ -33,7 +33,7 @@ This is the very begining of production but here's what's intended for this proj
 
 #### 3 - Automate installation with IaC
 * Use Terraform to :
-* * Feed the server
+  * Feed the server
   * Automatically install the environment
   * Manage network and firwall's configuration
  
