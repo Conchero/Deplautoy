@@ -14,7 +14,7 @@ This is the very begining of production but here's what's intended for this proj
 |    Infrastructure as Code (IaC)   |    Terraform   |
 |    Monitoring   |   Grafana, Prometheus and Loki    |
 |    Reverse Proxy    |    Nginx   |
-|    Cloud    |   Render or VPS    |
+|    Server    |   VPS    |
 
 ---
 
