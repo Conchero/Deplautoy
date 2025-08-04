@@ -49,7 +49,7 @@ Structuration of the repository to make easier the incoming application implemen
 
 The V1 of this project will have full Django support
 
-Then for the V2 of this project and using the reverse proxy it will have support for multiple language and Framework, like Laravel or React and Next.js
+Then for the V2 of this project will have an interface from which you can select a selection of language and framework, it will install the chosen environement thanks to IaC and using the reverse proxy to redirect user to the correct route and automating the chosen unit test for a given language to perform CI/CD, it will have support for multiple language and Framework, like Laravel or React and Next.js from which users can deploy their app
 
 ---
 
