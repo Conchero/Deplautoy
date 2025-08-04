@@ -45,6 +45,13 @@ With an nginx hello world test :
 Structuration of the repository to make easier the incoming application implementation
 
 ---
+### Then What ?
+
+The V1 of this project will have full Django support
+
+Then for the V2 of this project and using the reverse proxy it will have support for multiple language and Framework, like Laravel or React and Next.js
+
+---
 
 Come back soon for updates !
 
