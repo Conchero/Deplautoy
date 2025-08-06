@@ -56,15 +56,18 @@ Then for the V2 of this project will have an interface from which you can select
 ### 06/08/25 Update
 
 Welcome back for this quick update, right now I'm gathering all the ressources, documentation and knowledge to start this project peacefully, here's the different subjects completed:
+
 **Languages and Environement** :
 - Shell Scripting
 - Virtual Machine
 - Cloud Platforms such as AWS 
 - Linux OS, with Ubuntu distro
+  
 **Containerization**
 - Docker Volumes
 - Docker Multi Stage Building
 - Docker Networking
+  
 **Proxy**
 - Nginx
 
