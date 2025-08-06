@@ -47,9 +47,26 @@ Structuration of the repository to make easier the incoming application implemen
 ---
 ### Then What ?
 
-The V1 of this project will have full Django support
+The V1 of this project will have a light Django support made to test the pipeline 
 
 Then for the V2 of this project will have an interface from which you can select a selection of language and framework, it will install the chosen environement thanks to IaC and using the reverse proxy to redirect user to the correct route and automating the chosen unit test for a given language to perform CI/CD, it will have support for multiple language and Framework, like Laravel or React and Next.js from which users can deploy their app
+
+---
+
+### 06/08/25 Update
+
+Welcome back for this quick update, right now I'm gathering all the ressources, documentation and knowledge to start this project peacefully, here's the different subjects completed:
+**Languages and Environement** :
+- Shell Scripting
+- Virtual Machine
+- Cloud Platforms such as AWS 
+- Linux OS, with Ubuntu distro
+**Containerization**
+- Docker Volumes
+- Docker Multi Stage Building
+- Docker Networking
+**Proxy**
+- Nginx
 
 ---
 
